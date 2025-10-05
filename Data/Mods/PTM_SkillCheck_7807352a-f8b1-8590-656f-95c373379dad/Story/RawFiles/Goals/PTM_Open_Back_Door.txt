@@ -1,0 +1,24 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//REGION Back Door
+IF
+UseFinished(_Player,PTM_TV_BackdoorButton_000_a3915f47-202b-4923-9d22-a4545e1ed4c2, 1)
+AND
+IsLocked(DOOR_Double_Slim_City_House_J_Frameless_Top_A_000_91e2f5fa-0be3-4f95-b23b-61c68a4965cb, 1)
+THEN
+PROC_ItemUnlockAndOpen(DOOR_Double_Slim_City_House_J_Frameless_Top_A_000_91e2f5fa-0be3-4f95-b23b-61c68a4965cb);
+
+IF
+UseFinished(_Player,PTM_TV_BackdoorButton_000_a3915f47-202b-4923-9d22-a4545e1ed4c2, 1)
+AND
+IsOpened(DOOR_Double_Slim_City_House_J_Frameless_Top_A_000_91e2f5fa-0be3-4f95-b23b-61c68a4965cb, 1)
+THEN
+PROC_ItemCloseAndLock(DOOR_Double_Slim_City_House_J_Frameless_Top_A_000_91e2f5fa-0be3-4f95-b23b-61c68a4965cb, "NOKEY");
+//END_REGION
+ 
+EXITSECTION
+
+ENDEXITSECTION
