@@ -58,7 +58,7 @@
                                                 "TagText" : {
                                                    "handle" : "hdff83da8g7c33g7a5cge9bdg58437af61215",
                                                    "type" : "TranslatedString",
-                                                   "version" : 2
+                                                   "version" : 3
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -231,7 +231,7 @@
                                                 "TagText" : {
                                                    "handle" : "h3e288e33gc6fag858bg5f41g241f32589500",
                                                    "type" : "TranslatedString",
-                                                   "version" : 2
+                                                   "version" : 3
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -392,7 +392,7 @@
                                                 "TagText" : {
                                                    "handle" : "hf4ed1472g55b5g1e8dgd6a2g1e714a5ce996",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 2
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -605,7 +605,7 @@
                                                 "TagText" : {
                                                    "handle" : "h2f67ce92g1761gde6fgc625g6cd5aecd90eb",
                                                    "type" : "TranslatedString",
-                                                   "version" : 2
+                                                   "version" : 3
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -752,7 +752,7 @@
                      {
                         "Ability" : {"type" : "string", "value" : "Charisma"},
                         "Advantage" : {"type" : "uint8", "value" : 0},
-                        "DifficultyClassID" : {"type" : "guid", "value" : "00000000-0000-0000-0000-000000000000"},
+                        "DifficultyClassID" : {"type" : "guid", "value" : "fa621d38-6f83-4e42-a55c-6aa651a75d46"},
                         "ExcludeCompanionsOptionalBonuses" : {"type" : "bool", "value" : false},
                         "ExcludeSpeakerOptionalBonuses" : {"type" : "bool", "value" : false},
                         "GameData" : [
@@ -785,7 +785,7 @@
                                                 "TagText" : {
                                                    "handle" : "hf697586fg5b5dga5fag2329gbd749e2b5fc3",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 2
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -962,7 +962,7 @@
                                                 "TagText" : {
                                                    "handle" : "h5507d83bg76b3g7bc4g82a3gb5314e3f66d3",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 2
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -1248,7 +1248,7 @@
                }
             ],
             "needLayout" : {"type" : "bool", "value" : false},
-            "nextNodeId" : {"type" : "uint32", "value" : 17},
+            "nextNodeId" : {"type" : "uint32", "value" : 18},
             "overrideFidelity" : {"type" : "LSString", "value" : "None"},
             "speakerSlotDescription" : [
                {
