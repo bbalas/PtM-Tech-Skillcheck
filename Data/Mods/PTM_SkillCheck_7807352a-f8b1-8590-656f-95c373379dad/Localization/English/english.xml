@@ -8,9 +8,9 @@
   <content contentuid="h77df571agbc3cg4c35g90c0g8a1275979d92" version="2">Dummy</content>
   <content contentuid="h42c0be43gc4d2ge6cag097eg55f7240c01df" version="1">Civilian</content>
   <content contentuid="h18e25645g7fffgd1cbg8622g821bba485cba" version="1">Civilian</content>
-  <content contentuid="h90bc61d5ge222g3de1g8cf6gfa707e5b94cc" version="4">Lobrin Darkmaul</content>
+  <content contentuid="h90bc61d5ge222g3de1g8cf6gfa707e5b94cc" version="5">Lobrin Darkmaul</content>
   <content contentuid="h16d3c593g7f16ga3d3g0ba1ge1801e407489" version="1">Button</content>
-  <content contentuid="hdb5870c2g9099g0cffg7adfgeb9dd2725fd4" version="4">Back Door Button</content>
+  <content contentuid="hdb5870c2g9099g0cffg7adfgeb9dd2725fd4" version="5">Back Door Button</content>
   <content contentuid="hd733caafgbbf1gd8ceg2a79g261a90e4f7b3" version="6">Greetings traveler, this tavern is members only</content>
   <content contentuid="hb0ace3e7gb4ecg5710g7d70g3bda36596a6c" version="6">How can I join?</content>
   <content contentuid="h8dc6d66ag8225g404cg76a3g9aeb78a71781" version="6">If you have to ask you can't afford it</content>
@@ -21,4 +21,6 @@
   <content contentuid="hf4ed1472g55b5g1e8dgd6a2g1e714a5ce996" version="1">I'm sorry I didn't recognize you, the guest list must not have been updated.  Here is your key to get in!</content>
   <content contentuid="h5507d83bg76b3g7bc4g82a3gb5314e3f66d3" version="1">HA! I know every member personally, get out of here now</content>
   <content contentuid="hf697586fg5b5dga5fag2329gbd749e2b5fc3" version="1">I'm already a member, I can't believe you don't recognize me</content>
+  <content contentuid="h8e901ebfgdd9egcba0g2768g363905e57b22" version="2">Tavern Key</content>
+  <content contentuid="hdda30cadgc39fg6552g6c7fg77a81ac18dbe" version="2">A small iron key.</content>
 </contentList>
