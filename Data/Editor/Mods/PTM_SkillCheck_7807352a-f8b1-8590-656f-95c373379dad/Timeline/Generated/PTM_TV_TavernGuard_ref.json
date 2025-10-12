@@ -1,14 +1,32 @@
 {
   "Flags": {
-    "9e9806ad-847b-a73c-b807-7535869cdc3d": [
-      "IMPOSSIBLE"
+    "625ffeb4-dc25-f2ff-46a5-fcdbc0619003": [
+      "PTM_TV_TavernGuard_GaveKey",
+      "PTM_TV_TavernGuard_HasMet"
     ],
-    "79a1532b-59d7-fe58-9a19-f36bbf494ea4": [
-      "IMPOSSIBLE"
-    ]
+    "9d7a4396-088e-8fb7-f192-8edcf6bc35a1": [
+      "PTM_TV_TavernGuard_GaveKey",
+      "PTM_TV_TavernGuard_HasMet"
+    ],
+    "b0ea3e3d-3144-77dd-70cc-3e19d5cff891": [
+      "PTM_TV_TavernGuard_GaveKey",
+      "PTM_TV_TavernGuard_HasMet"
+    ],
+    "c4ff169b-c971-644e-ed8b-96d861d121f4": [
+      "PTM_TV_TavernGuard_GaveKey",
+      "PTM_TV_TavernGuard_HasMet"
+    ],
+    "5d493752-6825-41d6-f5ab-a1fdb44ddb88": [ ],
+    "74101006-5cb3-9b3e-d23c-8f32d60d238a": [ ],
+    "ae6eca6b-7a16-5775-954f-8c35622e09b3": [ ]
   },
   "Lines": {
-    "9e9806ad-847b-a73c-b807-7535869cdc3d": "Greetings traveler, this tavern is members only",
-    "79a1532b-59d7-fe58-9a19-f36bbf494ea4": "If you have to ask you can't afford it"
+    "625ffeb4-dc25-f2ff-46a5-fcdbc0619003": "Members ONLY!  Get out of here",
+    "9d7a4396-088e-8fb7-f192-8edcf6bc35a1": "Greetings traveler!  This tavern is members only.",
+    "b0ea3e3d-3144-77dd-70cc-3e19d5cff891": "Enjoy the club and have a good day sir!",
+    "c4ff169b-c971-644e-ed8b-96d861d121f4": "Welcome in sir!",
+    "5d493752-6825-41d6-f5ab-a1fdb44ddb88": "If you have to ask you can't afford it!",
+    "74101006-5cb3-9b3e-d23c-8f32d60d238a": "I'm sorry I didn't recognize you, the guest list must not have been updated.  Here is your key to get in!",
+    "ae6eca6b-7a16-5775-954f-8c35622e09b3": "HA! I know every member personally, get out of here now"
   }
 }

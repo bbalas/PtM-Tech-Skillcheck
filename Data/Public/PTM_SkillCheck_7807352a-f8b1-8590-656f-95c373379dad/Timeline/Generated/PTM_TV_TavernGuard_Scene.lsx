@@ -3,7 +3,7 @@
     <version major="4" minor="8" revision="0" build="500"/>
     <region id="TLScene">
         <node id="root">
-            <attribute id="Identifier" type="guid" value="626da335-f52a-1e6c-ac7d-9209b14f517f"/>
+            <attribute id="Identifier" type="guid" value="a6d6f351-89ea-8e05-13ec-6f1b82ef792d"/>
             <attribute id="SceneBounds" type="fvec3">
                 <float3 x="1" y="0" z="2"/>
             </attribute>
@@ -90,7 +90,7 @@
                         <node id="TLActor">
                             <attribute id="ActorType" type="uint8" value="2"/>
                             <attribute id="ImportantForStaging" type="bool" value="true"/>
-                            <attribute id="TemplateId" type="guid" value="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a"/>
+                            <attribute id="TemplateId" type="guid" value="3278f064-5353-4c08-ab96-c2f432d0fda0"/>
                             <children>
                                 <node id="Transforms">
                                     <children>
@@ -115,7 +115,7 @@
                         <node id="TLActor">
                             <attribute id="ActorType" type="uint8" value="4"/>
                             <attribute id="ImportantForStaging" type="bool" value="true"/>
-                            <attribute id="TemplateId" type="guid" value="3278f064-5353-4c08-ab96-c2f432d0fda0"/>
+                            <attribute id="TemplateId" type="guid" value="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a"/>
                             <children>
                                 <node id="Transforms">
                                     <children>
@@ -140,7 +140,7 @@
                         <node id="TLActor">
                             <attribute id="ActorType" type="uint8" value="4"/>
                             <attribute id="ImportantForStaging" type="bool" value="true"/>
-                            <attribute id="TemplateId" type="guid" value="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a"/>
+                            <attribute id="TemplateId" type="guid" value="3278f064-5353-4c08-ab96-c2f432d0fda0"/>
                             <children>
                                 <node id="Transforms">
                                     <children>
@@ -190,7 +190,7 @@
                         <node id="TLActor">
                             <attribute id="ActorType" type="uint8" value="8"/>
                             <attribute id="ImportantForStaging" type="bool" value="true"/>
-                            <attribute id="TemplateId" type="guid" value="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a"/>
+                            <attribute id="TemplateId" type="guid" value="3278f064-5353-4c08-ab96-c2f432d0fda0"/>
                             <children>
                                 <node id="Transforms">
                                     <children>
