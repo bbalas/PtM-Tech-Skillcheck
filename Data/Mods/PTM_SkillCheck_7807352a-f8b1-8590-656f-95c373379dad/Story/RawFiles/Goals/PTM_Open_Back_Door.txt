@@ -3,6 +3,8 @@ SubGoalCombiner SGC_AND
 INITSECTION
 
 KBSECTION
+// Snuggi3
+
 //REGION Back Door
 IF
 UseFinished(_Player,PTM_TV_BackdoorButton_000_a3915f47-202b-4923-9d22-a4545e1ed4c2, 1)
