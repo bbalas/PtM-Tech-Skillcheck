@@ -1,0 +1,24 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+// Snuggi3
+
+// Dialog File
+// PTM_TV_TavernGuard_c0e88bbd-641b-fdb1-473c-6752fd088026
+
+// Relevant dialog flags
+// PTM_TV_TavernGuard_GaveKey
+
+//REGION Get key from the guard
+IF
+FlagSet((FLAG)PTM_TV_TavernGuard_GaveKey_becea938-78ed-fb44-a05c-c8b49f79c922,_,_)
+AND
+DB_Players(_Player)
+THEN
+TemplateAddTo((ITEMROOT)PTM_TavernKey_be601141-b07e-49e8-a01f-7d82625e8c21, _Player, 1, 1);
+//END_REGION
+EXITSECTION
+
+ENDEXITSECTION
