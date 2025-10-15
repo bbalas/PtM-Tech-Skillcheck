@@ -23,7 +23,7 @@
 
 ## Dev Log
 
-This is a rough break down of the commits (13 commits in order chronological order):
+This is a rough break down of the commits (commits in order chronological order):
 
 1. First commit, familiarizing myself with the tools. Created a new Root Template for the Tavern guard character
    - Cloned from BASE_Dwarves_Male_Hill_Guard
@@ -63,3 +63,5 @@ This is a rough break down of the commits (13 commits in order chronological ord
     - Script: PTM_TV_TavernGuard_GetKeyDialog
     - checks for the flag set event for `PTM_TV_TavernGuard_GaveKey`
     - Use `TemplateAddTo` to create a new instance of the key. Guard retains his copy if you want to pickpocket it
+14. Add this doc
+15. Fix front tavern door not properly playing the opening animation
