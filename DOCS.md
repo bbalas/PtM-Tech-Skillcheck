@@ -13,7 +13,6 @@
 
 ## Nits and things I would improve
 
-- For some reason the front door animations don't work. When the door unlocks it still looks closed but the player can walk through it
 - The dialog cinematic is the base one, I would want to play around with the timeline editor to make it a bit better
 - The get key script (PTM_TV_TavernGuard_GetKeyDialog) script should maybe give the key from the guard instead of creating a new one
   - Debatable since you may want the guard to be able to get in later
